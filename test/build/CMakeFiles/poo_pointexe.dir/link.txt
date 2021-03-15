@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/poo_pointexe.dir/src/point2.cpp.o CMakeFiles/poo_pointexe.dir/src/main.cpp.o  -o poo_pointexe 

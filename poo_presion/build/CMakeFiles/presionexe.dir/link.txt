@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/presionexe.dir/src/presion.cpp.o CMakeFiles/presionexe.dir/src/main.cpp.o  -o presionexe 

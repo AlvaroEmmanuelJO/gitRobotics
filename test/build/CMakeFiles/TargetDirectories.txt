@@ -1,0 +1,3 @@
+/home/alvaro/Escritorio/Robotica/test/build/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Escritorio/Robotica/test/build/CMakeFiles/poo_pointexe.dir
+/home/alvaro/Escritorio/Robotica/test/build/CMakeFiles/edit_cache.dir

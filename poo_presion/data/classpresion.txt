@@ -1,0 +1,22 @@
+
+Clase Presion
+--------------------------------------------------------------------
+profundidad = Altura
+presion superficial = Presuper
+densidad del fluido = Dens
+gravedad = Gravedad
+--------------------------------------------------------------------
+Presion (Altura:float, Presuper:float, Dens:float, Gravedad:float):
+getAltura():float
+setAltura(Altura:float):void
+getPresuper():float
+setPresuper(Presuper:float):void
+getDens:float
+setp(Dens:float):void
+getGravedad(): float
+setGravedad(Gravedad:float):void
+setAll(Altura:float, Presuper:float, dens:float, Gravedad:float):void
+getPresionabs():double
+getPresionmano():double
+print():void
+--------------------------------------------------------------------

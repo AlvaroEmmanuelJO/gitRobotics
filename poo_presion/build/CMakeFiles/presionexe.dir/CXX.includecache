@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/presion.hpp
+
+/home/alvaro/Escritorio/Robotica/poo_presion/src/main.cpp
+presion.hpp
+/home/alvaro/Escritorio/Robotica/poo_presion/src/presion.hpp
+iostream
+-
+
+/home/alvaro/Escritorio/Robotica/poo_presion/src/presion.cpp
+presion.hpp
+/home/alvaro/Escritorio/Robotica/poo_presion/src/presion.hpp
+iostream
+-
+cmath
+-
+

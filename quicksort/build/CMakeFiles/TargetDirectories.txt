@@ -1,0 +1,3 @@
+/home/alvaro/Escritorio/Robotica/quicksort/build/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Escritorio/Robotica/quicksort/build/CMakeFiles/quicksortexe.dir
+/home/alvaro/Escritorio/Robotica/quicksort/build/CMakeFiles/edit_cache.dir

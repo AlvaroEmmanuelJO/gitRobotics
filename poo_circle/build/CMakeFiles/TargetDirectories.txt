@@ -1,0 +1,3 @@
+/home/alvaro/Escritorio/Robotica/poo_circle/build/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Escritorio/Robotica/poo_circle/build/CMakeFiles/poo_circleexe.dir
+/home/alvaro/Escritorio/Robotica/poo_circle/build/CMakeFiles/edit_cache.dir
