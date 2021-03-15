@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alvaro/Escritorio/Robotica/sort/src/main.cpp
+stdlib.h
+-
+time.h
+-
+iostream
+-
+ctime
+-
+

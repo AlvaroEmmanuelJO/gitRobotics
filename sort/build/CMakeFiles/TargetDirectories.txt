@@ -1,0 +1,3 @@
+/home/alvaro/Escritorio/Robotica/sort/build/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Escritorio/Robotica/sort/build/CMakeFiles/sortexe.dir
+/home/alvaro/Escritorio/Robotica/sort/build/CMakeFiles/edit_cache.dir
